@@ -1,8 +1,8 @@
-### Me chamo Leandro Costa.
+### Eae, bem vindo ao meu git, me chamo Leandro Costa
 
 Curso ADS e estou fazendo estagio no TCEMG.
 
-No momento aprendendo:
+Estou aprendendo:
 
 <div align="start" style="display: inline_block">
   <img  alt="Leandro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
